@@ -2,7 +2,8 @@
 - 👀 I’m interested in ...money
 - 🌱 I’m currently learning ...how to earn money
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach  Reach me on my mobile
+- 📫 How to reach
+- third edit
 
 <!---
 nikhilraj0722/nikhilraj0722 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

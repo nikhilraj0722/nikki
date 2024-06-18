@@ -5,7 +5,7 @@
 
 - sixth edit
 
-- 📫 How to reach
+- 📫 How
 - eighth edit
 - tenth edit
 
